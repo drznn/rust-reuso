@@ -1,0 +1,10 @@
+[package]
+name = "restaurante1"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "restaurante1"
+path = "src/lib.rs"
